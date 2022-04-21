@@ -1,6 +1,7 @@
 jeden
 dva
 tri
+tri a pol
 styri
 pat
 sest
