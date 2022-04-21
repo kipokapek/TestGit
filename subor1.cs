@@ -18,4 +18,6 @@ desat
 jedenast
 jedenast a pol
 dvanast
+dvanast a pol
 trinast
+trinast a pol
