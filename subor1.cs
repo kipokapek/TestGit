@@ -8,3 +8,5 @@ sedem
 osem
 devat
 desat
+jedenast
+dvanast
