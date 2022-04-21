@@ -8,6 +8,7 @@ pat
 sest
 sedem
 osem
+osem a pol
 devat
 desat
 jedenast
