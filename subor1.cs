@@ -13,6 +13,7 @@ sedem a pol
 osem
 osem a pol
 devat
+devat a pol
 desat
 jedenast
 dvanast
