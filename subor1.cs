@@ -16,5 +16,6 @@ devat
 devat a pol
 desat
 jedenast
+jedenast a pol
 dvanast
 trinast
