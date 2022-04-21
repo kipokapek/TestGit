@@ -10,3 +10,5 @@ devat
 desat
 jedenast
 dvanast
+trinast
+strnast
