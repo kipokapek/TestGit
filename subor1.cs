@@ -10,3 +10,8 @@ devat
 desat
 jedenast
 dvanast
+
+sadad
+sadads
+dvadas
+dvadas
