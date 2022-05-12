@@ -24,3 +24,4 @@ trinast a pol
 strnast
 strnast a pol
 patnast
+patnast
