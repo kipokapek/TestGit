@@ -25,3 +25,5 @@ strnast
 strnast a pol
 patnast
 patnast a pol
+sestnast
+sestnast a pol
