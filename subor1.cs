@@ -22,3 +22,4 @@ dvanast a pol
 trinast
 trinast a pol
 strnast
+strnast a pol
